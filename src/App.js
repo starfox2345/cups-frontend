@@ -1,5 +1,5 @@
-import './App.css';
 import {Route, Routes} from 'react-router';
+import './App.css';
 import CupList from './components/cups/CupList';
 
 function App() {
